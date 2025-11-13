@@ -1,0 +1,314 @@
+[{
+  "_id": {
+    "$oid": "6511d10774604ec40706db9b"
+  },
+  "name": "Admin",
+  "mobile": "01896310715",
+  "email": "admin@gmail.com",
+  "role": "admin",
+  "password": "$2a$12$5BVX8CdBmTRmagJVnG0GgeTGDDZLM5IGHog5vVuqMI0SZk72x1vM.",
+  "passwordChangedAt": {
+    "$date": "2023-09-25T18:27:19.271Z"
+  },
+  "active": true,
+  "__v": 0,
+  "balance": 0
+},
+{
+  "_id": {
+    "$oid": "6511d13274604ec40706db9d"
+  },
+  "name": "Razib Hossen",
+  "mobile": "01795805817",
+  "email": "razibhossen@gmail.com",
+  "role": "user",
+  "password": "$2a$12$cnAv.zdia545b9snkCmKdOegBtMtsQuwHtGosFZ.TV2zaW0HAK5V2",
+  "passwordChangedAt": {
+    "$date": "2023-09-25T18:28:02.343Z"
+  },
+  "active": true,
+  "__v": 0,
+  "balance": 0
+},
+{
+  "_id": {
+    "$oid": "6526d950a0eeee42e61cdb34"
+  },
+  "name": "Mehedi",
+  "mobile": "01303378002",
+  "email": "mehedifakir.cse@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$vb7RazQfuhuxfph6C6nGVuLSLmfqiDPhzS8Ywq4Bgy8Lf5Ll6cwYS",
+  "passwordChangedAt": {
+    "$date": "2023-10-11T17:20:19.553Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65354b1f6a65f3ee4926a18e"
+  },
+  "name": "razibhossen",
+  "mobile": "01795805817",
+  "email": "razibhossendev@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2y$12$p4tbZSEqPO/GQMdcg.kFp.FlJ7vTgqankXDwyMSfaFXhpskN9hydC",
+  "passwordChangedAt": {
+    "$date": "2023-10-22T16:17:34.634Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6551a3704e7cf3e9c4844cd6"
+  },
+  "name": "aminur",
+  "mobile": "01627432643",
+  "email": "razibhossen8556@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$7nOAMkMRPValTRJiQoXqVuxRcenRy6RFXpQCPye07lUkySEvDy4WW",
+  "passwordChangedAt": {
+    "$date": "2023-11-13T04:17:52.261Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6551afc04e7cf3e9c4844d80"
+  },
+  "name": "Ashraf ",
+  "mobile": "01618512608",
+  "email": "alasraf3608@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$KEspfqg0vFpIjpXkyMX9IeSCX3ArJsMzqp19Idcju1sfMrNuTHfTa",
+  "passwordChangedAt": {
+    "$date": "2023-11-13T05:10:23.565Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556fb58ff19adc0d2f9157b"
+  },
+  "name": "Masum Billam",
+  "mobile": "01712345678",
+  "email": "masumbillah@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$OL6oobqNZyku9It6R4e38uL5FeArJvL59tPsbnf5BS7qdg0HD5cEW",
+  "passwordChangedAt": {
+    "$date": "2023-11-17T05:34:19.936Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d87abd96247f0b441922a"
+  },
+  "name": "Mehedi Fakir",
+  "mobile": "01999873301",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$hF7PIl2mFR4ui3crF2iaZe0.IRtMF5sWJ84nc.xRgUEqN0w7w1XZC",
+  "passwordChangedAt": {
+    "$date": "2024-04-03T16:45:33.460Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "age": 0,
+  "hobby": "",
+  "gender": "male",
+  "address": "",
+  "createdAt": {
+    "$date": "2024-04-03T16:45:31.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T16:45:31.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d8cf8e11efe883bb3ddc5"
+  },
+  "name": "Dipankar Biswas",
+  "mobile": "01741571104",
+  "email": "test@admin.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$Os3f.dqhLRXAhIoIS2lL.etWO65R6lMPm4cioY0OSDI3zgzMdkBKu",
+  "passwordChangedAt": {
+    "$date": "2024-04-03T17:08:07.752Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "age": 0,
+  "hobby": "",
+  "gender": "male",
+  "address": "",
+  "createdAt": {
+    "$date": "2024-04-03T17:08:08.301Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T17:08:08.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c0eecb5f8cf3361736a4df"
+  },
+  "name": "Razib Hossen",
+  "email": "razib@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$AH0RbVWI0jApaO9iubXbTebCiBY2ZH3gsqWWqNh/xDfafj/In74qG",
+  "passwordChangedAt": {
+    "$date": "2024-08-17T18:41:14.887Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "age": 0,
+  "hobby": "",
+  "gender": "male",
+  "address": "",
+  "createdAt": {
+    "$date": "2024-08-17T18:41:15.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T18:41:15.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c10cd6f7a848a1a3309032"
+  },
+  "name": "Razib Hossen",
+  "email": "razibhossen555@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$/9B2Nq9Ha6YAcbbEEsLNPOLG1FzgaxLgzpwp6GtbOdr/bQ9Eqr/M.",
+  "passwordChangedAt": {
+    "$date": "2024-08-17T20:49:26.177Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "age": 0,
+  "hobby": "",
+  "gender": "male",
+  "address": "",
+  "createdAt": {
+    "$date": "2024-08-17T20:49:26.861Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T20:49:26.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c211a95e6b5f1a0908228c"
+  },
+  "name": "Ahnaf Tajwar",
+  "email": "wdcrafael89@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$j.Fg6mKzXUYvkSKDrY91yuScjoIqe7huCgTbabvhefSRBj70Wnrua",
+  "passwordChangedAt": {
+    "$date": "2024-08-18T15:22:16.435Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "age": 0,
+  "hobby": "",
+  "gender": "male",
+  "address": "",
+  "createdAt": {
+    "$date": "2024-08-18T15:22:17.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T15:22:17.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738ac403ac7719a452621d3"
+  },
+  "name": "Supper Admin",
+  "mobile": "01896310715",
+  "email": "superadmin@gmail.com",
+  "role": "admin",
+  "password": "$2y$12$p4tbZSEqPO/GQMdcg.kFp.FlJ7vTgqankXDwyMSfaFXhpskN9hydC",
+  "passwordChangedAt": {
+    "$date": "2023-09-25T18:27:19.271Z"
+  },
+  "active": true,
+  "__v": 0,
+  "balance": 0
+},
+{
+  "_id": {
+    "$oid": "67f946d404a1d829bd8aee0d"
+  },
+  "name": "Md. Raz",
+  "email": "razidul.i99@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$.0ZeYSo959KQV.4LkKYq1eKQxu6ZdjbnmYBkJzXaB4fDa2rtRhVFO",
+  "passwordChangedAt": {
+    "$date": "2025-04-11T16:44:04.581Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "age": 0,
+  "hobby": "",
+  "gender": "male",
+  "address": "",
+  "createdAt": {
+    "$date": "2025-04-11T16:44:04.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T16:44:04.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681d4d0efdd75e3901b0a0d8"
+  },
+  "name": "MUHAMMAD CHAN ",
+  "email": "chanbdcustoms@gmail.com",
+  "balance": 0,
+  "role": "user",
+  "password": "$2a$12$Y/4z5ptaqcAT3f92RbmjA.shFOLGqdAFjwJObqEoNkWJgbFP/reIi",
+  "passwordChangedAt": {
+    "$date": "2025-05-09T00:32:13.637Z"
+  },
+  "active": true,
+  "agreeToTerms": true,
+  "age": 0,
+  "hobby": "",
+  "gender": "male",
+  "address": "",
+  "createdAt": {
+    "$date": "2025-05-09T00:32:14.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T00:32:14.195Z"
+  },
+  "__v": 0
+}]

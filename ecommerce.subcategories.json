@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "670025e9e27eae04e193f911"
+  },
+  "sub_cat_name": "Battery",
+  "sub_cat_description": "test",
+  "image_url": "https://active-force.sgp1.cdn.digitaloceanspaces.com/ecom/1728062952661-XIR E8600I (T1).jpg",
+  "sub_cat_slug": "battery",
+  "status": true,
+  "category_id": {
+    "$oid": "66cb2556ddbabaf06ab5e01a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67002af15e92e34397955b85"
+  },
+  "sub_cat_name": "Charger",
+  "sub_cat_description": "Charger",
+  "image_url": "https://active-force.sgp1.cdn.digitaloceanspaces.com/ecom/1728064240885-XIR E8600I (T4).jpg",
+  "sub_cat_slug": "charger",
+  "status": true,
+  "category_id": {
+    "$oid": "66cb2556ddbabaf06ab5e01a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67002b025e92e34397955b8b"
+  },
+  "sub_cat_name": "Others",
+  "sub_cat_description": "Others",
+  "image_url": "https://active-force.sgp1.cdn.digitaloceanspaces.com/ecom/1728064257636-XIR E8600I (T4).jpg",
+  "sub_cat_slug": "others",
+  "status": true,
+  "category_id": {
+    "$oid": "66cb2556ddbabaf06ab5e01a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67073e66b3db20d3f1dc246d"
+  },
+  "sub_cat_name": "Unknown",
+  "sub_cat_description": "unknown",
+  "image_url": "https://active-force.sgp1.cdn.digitaloceanspaces.com/ecom/1728062952661-XIR E8600I (T1).jpg",
+  "sub_cat_slug": "unknown",
+  "status": true,
+  "category_id": {
+    "$oid": "66cb2556ddbabaf06ab5e01a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6715c9e978657bd6c38211c7"
+  },
+  "sub_cat_name": "Repeater",
+  "sub_cat_description": "Repeater",
+  "image_url": "https://active-force.sgp1.cdn.digitaloceanspaces.com/ecom/1729481193407-VX-2208 (T3).jpg",
+  "sub_cat_slug": "repeater",
+  "status": true,
+  "category_id": {
+    "$oid": "66cb2575ddbabaf06ab5e01e"
+  },
+  "__v": 0
+}]
